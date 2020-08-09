@@ -1,0 +1,2 @@
+# Integrals and Intervals
+In this project we approximate integrals using a Monte Carlo Simulation. We compute the 25th, 50th, and 90th percentiles using empirical distribution and compare the value to the theoretical percentile values for 𝜒2(4). We also compute 95% statistical confidence interval for the mean waiting time and 95% bootstrap confidence interval pertaining to the geothermal discharge of a geyser.
